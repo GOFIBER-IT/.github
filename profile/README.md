@@ -2,7 +2,7 @@
 
 GPKD số 0317495104 cấp bởi Sở Kế Hoạch và Đầu tư TP Hồ Chí Minh ngày 29/08/2022
 
-![Hoá đơn: hoadondientu@gofiber.vn](/images/icons/invoice.svg)Hoá đơn: hoadondientu@gofiber.vn
+![Hoá đơn: hoadondientu@gofiber.vn](./invoice.svg)Hoá đơn: hoadondientu@gofiber.vn
 
 ![Số 231, Đường Tây Thạnh, P. Tây Thạnh, Q. Tân Phú](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Locations.webp)Số 231, Đường Tây Thạnh, P. Tây Thạnh, Q. Tân Phú
 
