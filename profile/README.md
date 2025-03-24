@@ -15,5 +15,3 @@ GPKD số 0317495104 cấp bởi Sở Kế Hoạch và Đầu tư TP Hồ Chí M
 
 [![gofiber facebook](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Facebook.webp&w=64&q=75)](https://www.facebook.com/gofibervn1)[![gofiber youtube](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Youtube.webp&w=64&q=75)](https://www.youtube.com/@gofibervn)[![gofiber pi width={32} height={32}nterest](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Pinterest.webp&w=64&q=75)](https://www.pinterest.com/gofibervn/)[![gofiber twitter](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Twitter.webp&w=64&q=75)](https://twitter.com/gofibervn)
 
-[![gofiber facebook](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Facebook.webp&w=64&q=75)](https://www.facebook.com/gofibervn1)[![gofiber youtube](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Youtube.webp&w=64&q=75)](https://www.youtube.com/@gofibervn)[![gofiber pinterest](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Pinterest.webp&w=64&q=75)](https://www.pinterest.com/gofibervn/)[![gofiber twitter](https://gofiber.b-cdn.net/webp/taitro/AnyConv.com__Twitter.webp&w=64&q=75)](https://twitter.com/gofibervn)
-`
